@@ -13,3 +13,11 @@ go build -o main cmd/main.go
 
 main
 ```
+
+## 3. 统计问题数
+
+```shell
+cd pkg/utils
+
+go test
+``` 
